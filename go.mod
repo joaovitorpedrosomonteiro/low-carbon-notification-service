@@ -1,6 +1,6 @@
 module github.com/joaovitorpedrosomonteiro/low-carbon-notification-service
 
-go 1.22
+go 1.25.0
 
 require (
 	cloud.google.com/go/pubsub v1.45.3
